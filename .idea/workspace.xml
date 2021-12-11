@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="475c3cfd-5f44-4a4c-912c-a91adde62a04" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1vkK3B6SvUMN5b1MG60HIy791FT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/tools/android" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tuning_app" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="475c3cfd-5f44-4a4c-912c-a91adde62a04" name="Default Changelist" comment="" />
+      <created>1627100445057</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627100445057</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1274" y="508" width="642" height="705" key="FileChooserDialogImpl" timestamp="1627100458963">
+      <screen x="0" y="0" width="3200" height="1800" />
+    </state>
+    <state x="1274" y="508" width="642" height="705" key="FileChooserDialogImpl/0.0.3200.1800@0.0.3200.1800" timestamp="1627100458963" />
+  </component>
+</project>
